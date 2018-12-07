@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "license": "MIT",
   "angular-cli": {},
+  "engines": {
+    "node": "10.3.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node Server.js",
